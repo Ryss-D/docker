@@ -12,7 +12,7 @@ is the id at the end with format writing image sha256: docker_id
 
 by default is no comutication between local machine and docker container
 
-dokcer ps will list all docker container runin
+docker ps will list all docker container runin
 
 docker stop $container name
 
