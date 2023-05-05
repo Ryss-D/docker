@@ -17,3 +17,9 @@ docker ps will list all docker container runin
 docker stop $container name
 
 will stop the running container
+
+with docker run -it $iamge_name
+
+we can run a container from prebuilt image with interactive terminal 
+
+with docker ps -a we can see process
